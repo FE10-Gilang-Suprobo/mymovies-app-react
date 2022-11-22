@@ -12,7 +12,7 @@ export default class Card extends Component {
             </figure>
         <div className="card-body text-white">
           <h2 className="card-title">{title}</h2>
-          <p>{description}</p>
+          <p>Description : {description}</p>
           <div className="card-actions justify-end">
             <button className="btn bg-neutral w-full">Add to Favorite</button>
           </div>

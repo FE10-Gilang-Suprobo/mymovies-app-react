@@ -20,7 +20,7 @@ export default class Navbar extends Component {
           <p className="btn btn-ghost normal-case text-xl">Best Stereaming Movie</p>
         </div>
         <div className="navbar-end">
-          
+        
         </div>
       </div>
     )

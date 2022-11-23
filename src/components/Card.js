@@ -14,7 +14,7 @@ export default class Card extends Component {
           <h2 className="card-title">{title}</h2>
           <p>Description : {description}</p>
           <div className="card-actions justify-end">
-            <button className="btn bg-neutral w-full">Add to Favorite</button>
+            <button className="btn bg-neutral w-full">Watch Now</button>
           </div>
         </div>
       </div>
